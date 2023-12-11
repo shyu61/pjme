@@ -3,7 +3,7 @@
 ## Preparation
 - setup `rye`
   - [Installation](https://rye-up.com/guide/installation/)
-- download data
+- download data to `./data/`
   - https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
 
 ## Usage
