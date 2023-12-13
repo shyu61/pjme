@@ -16,4 +16,10 @@ rye sync
     - https://www.kaggle.com/code/robikscube/time-series-forecasting-with-prophet
 
 ## Usage
-WIP
+```bash
+# lightgbm
+python -m src.lgb --add-holiday-feats --add-temerature-feats
+
+# prophet
+python -m src.prophet
+```
