@@ -6,9 +6,6 @@
 #   features: []
 #   all-features: false
 
---trusted-host pypi.python.org
---trusted-host pypi.org
---trusted-host files.pythonhosted.org
 -e file:.
 aiohttp==3.9.1
 aiosignal==1.3.1
